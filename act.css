@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 * {
@@ -142,7 +142,8 @@ td {
 
 .table-1 tr:nth-of-type(even) {
   background-color: #ddd;
-=======
+}
+
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 * {
@@ -286,5 +287,4 @@ td {
 
 .table-1 tr:nth-of-type(even) {
   background-color: #ddd;
->>>>>>> 6ada721c77ec4f24682ffe174a60eefe93b2226a
 }

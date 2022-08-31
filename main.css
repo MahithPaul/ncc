@@ -225,7 +225,7 @@ a:is(:link, :active, :visited).btn-nav {
 .image-p {
     width: 100%;
     height: 500px;
-    background-image: url(images/_Y1A2905.JPG);
+    background-image: url(images/bg.JPG);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
