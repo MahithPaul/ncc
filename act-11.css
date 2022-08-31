@@ -191,17 +191,16 @@ a:is(:link, :active, :visited).btn-nav {
 }
 
 .card-matter h3 {
-    font-size: 26px;
-    margin-bottom: 15px;
+    font-size: 23px;
+    margin-bottom: 20px;
 }
-
 .card-matter a {
     text-decoration: none;
     color: white;
     padding: 6px;
     border-radius: 5px;
     background-color: #0c5a46;
-    margin-top: 25px;
+    margin-top: 30px;
 }
 
 .card-matter a:hover {

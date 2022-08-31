@@ -147,7 +147,7 @@ a:is(:link,:active,:visited).btn-nav{
     display: grid;
     justify-items: center;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 30px;
+    gap: 25px;
 }
 .card{
     width: 350px;
@@ -170,6 +170,10 @@ a:is(:link,:active,:visited).btn-nav{
 .card-matter p{
     font-size: 24px;
     margin-top: 25px;
+}
+form{
+    display: flex;
+    justify-content: center;
 }
 .button{
     width: 170px;

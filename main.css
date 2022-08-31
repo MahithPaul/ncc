@@ -116,8 +116,8 @@ ul {
 
 .button {
     float: right;
-    width: 100px;
-    height: 50px;
+    width: 90px;
+    height: 40px;
     padding: 3px;
     border-radius: 12px;
     background-color: #397b86;
@@ -225,7 +225,7 @@ a:is(:link, :active, :visited).btn-nav {
 .image-p {
     width: 100%;
     height: 500px;
-    background-image: url(images/htu.jpeg);
+    background-image: url(images/_Y1A2905.JPG);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
